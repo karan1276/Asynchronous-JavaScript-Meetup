@@ -7,3 +7,6 @@ Code of all demos presented at the meetup, good luck :)
 3. Promises
 4. Generators
 5. Async Functions
+
+## References
+[Gergely Nemeth's blog post](https://blog.risingstack.com/asynchronous-javascript/) 
